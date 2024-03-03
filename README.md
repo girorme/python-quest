@@ -24,12 +24,13 @@ Para configurar:
 - Introdução à linguagem Python.
 - Instalação e configuração do ambiente de desenvolvimento.
 - Primeiros passos: print(), variáveis, tipos de dados.
+- Aritmética
 - Exemplo: Criando um programa simples para simular a criação de um personagem de RPG.
 
 #### Aula 2: Estruturas de controle e funções
 - Estruturas de controle: if, else, elif.
 - Loops: for e while.
-- Funções e modularização do código.
+- Funções
 - Exemplo: Implementando um sistema de batalha em um RPG simples.
 
 #### Aula 3: Listas, dicionários e manipulação de strings
