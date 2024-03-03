@@ -1,3 +1,11 @@
+Python Quest 🐍⚔️
+---
+
+Explorando o mundo dos RPGs enquanto ensinamos Python para iniciantes!
+
+![logo](assets/python-quest.jpeg)
+
+
 Roteiro
 ---
 
