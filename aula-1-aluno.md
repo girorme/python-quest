@@ -22,5 +22,7 @@ Nesta aula, vamos explorar os conceitos básicos de Python enquanto mergulhamos 
    - Utilizaremos a função `input()` para receber entrada do usuário e armazenar as informações em variáveis.
    - Em seguida, vamos exibir na tela uma mensagem de boas-vindas com os detalhes do personagem criado.
 
+#### Hora do código
+
 #### Conclusão:
 Nesta aula, exploramos os conceitos básicos de Python enquanto mergulhamos no emocionante mundo dos RPGs. Continuaremos a construir sobre isso nas próximas aulas, à medida que nos aprofundamos mais nos conceitos de controle de fluxo, funções e estruturas de dados em Python.
