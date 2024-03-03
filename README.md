@@ -5,6 +5,8 @@ Explorando o mundo dos RPGs enquanto ensinamos Python para iniciantes!
 
 ![logo](assets/python-quest.jpeg)
 
+<sup><sub>Img created using: https://www.img2go.com/</sub></sup>
+
 
 Roteiro
 ---
