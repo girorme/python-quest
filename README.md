@@ -49,9 +49,9 @@ Para configurar:
 
 ### 3. Trilha de aprendizado para Python e habilidades essenciais:
 
-- **Python nível 1**: Comece com os fundamentos da linguagem Python, como variáveis, tipos de dados, estruturas de controle e funções.
-- **Python nível 2**: Aprofunde-se em conceitos mais avançados, como manipulação de arquivos, listas, dicionários, compreensão de listas, etc.
-- **Python nível 3**: Estude tópicos como programação orientada a objetos, manipulação de exceções, decoradores, etc.
+- **Python nível 1**: Fundamentos da linguagem Python, como variáveis, tipos de dados, estruturas de controle e funções.
+- **Python nível 2**: Conceitos mais avançados, como manipulação de arquivos, listas, dicionários, compreensão de listas, etc.
+- **Python nível 3**: Programação orientada a objetos, manipulação de exceções, decoradores, etc.
 - **Bibliotecas**: Familiarize-se com bibliotecas populares como Pygame (para desenvolvimento de jogos) (TO-DO: adicionar outras)
-- **Git e Controle de Versão**: Aprenda Git e GitHub para gerenciar e colaborar com projetos
+- **Git e Controle de Versão**: Git e GitHub para gerenciar e colaborar com projetos
 - **Outras Tecnologias**: Dependendo dos interesses específicos e do caminho de carreira, pode ser útil aprender sobre bancos de dados (SQL, NoSQL), frameworks web (Django, Flask), entre outros.
